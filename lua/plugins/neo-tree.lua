@@ -21,7 +21,7 @@ return {
 				},
 			},
 			window = {
-				width = 20,
+				width = 30,
 			},
 		})
 	end,
